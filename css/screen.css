@@ -177,12 +177,12 @@ div.admonition p {
 }
 
 div.admonition-important .admonition-title:before {
-  content: url("important.png");
+  content: url("http://citationstyles.org/downloads/important.png");
   padding-right: 5px;
 }
 
 div.admonition-hint .admonition-title:before {
-  content: url("ktip.png");
+  content: url("http://citationstyles.org/downloads/ktip.png");
   padding-right: 5px;
 }
 
@@ -217,12 +217,12 @@ table.footnote td.label {
 }
 
 a.external:not([href="http://creativecommons.org/licenses/by-sa/3.0/"]):not([href="http://purl.org/net/xbiblio/csl"]):before {
-  content: url("https://github.com/citation-style-language/documentation/raw/master/media/external-link.png");
+  content: url("http://citationstyles.org/downloads/external-link.png");
   padding-right: 2px;
 }
 
 a.fn-backref:before {
-  content: url("https://github.com/citation-style-language/documentation/raw/master/media/up-arrow.png");
+  content: url("http://citationstyles.org/downloads/up-arrow.png");
   padding-right: 2px;
 }
 
@@ -233,7 +233,7 @@ a.footnote-reference {
 }
 
 a.footnote-reference:before {
-  content: url("https://github.com/citation-style-language/documentation/raw/master/media/down-arrow.png");
+  content: url("http://citationstyles.org/downloads/down-arrow.png");
   padding-right: 2px;
 }
 
